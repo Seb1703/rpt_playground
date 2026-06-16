@@ -1,5 +1,3 @@
-# .env is tracked but skip-worktree prevents local changes from being committed
-__pycache__/
-.ipynb_checkpoints/
+.env
 __pycache__/
 .ipynb_checkpoints/
