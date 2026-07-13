@@ -5,7 +5,7 @@ An interactive Jupyter environment for the RPT interview exercise, launchable in
 ## How to launch
 
 1. Go to [mybinder.org](https://mybinder.org).
-2. Paste the URL of this repository into the **"GitHub repository name or URL"** field.
+2. Paste **`https://github.com/Seb1703/rpt_playground`** into the **"GitHub repository name or URL"** field.
 3. Click **"launch"** and wait ~1 minute while the environment builds.
 4. A Jupyter session opens in your browser with all required Python packages pre-installed.
 
